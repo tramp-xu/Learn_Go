@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/Learn_Go" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/anaskhan96/soup" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" vcs="Git" />
